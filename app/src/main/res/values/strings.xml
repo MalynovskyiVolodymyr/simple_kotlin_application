@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">simple_kotlin_application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title">Volodymyr Malynovskyi 30.03.1986</string>
+    <string name="title_expiriance">Experience</string>
+    <string name="secondary_text">https://supersalo.herokuapp.com</string>
+    <string name="supporting_text">https://supersalo.herokuapp.com</string>
+    <string name="content_description_media">https://supersalo.herokuapp.com</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="new_record">new note</string>
+    <string name="create_record">add</string>
+</resources>
